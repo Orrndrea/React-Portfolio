@@ -4,12 +4,12 @@ import Project from '../components/Project';
 function Portfolio() {
   const projects = [
     {
-      title: 'Project 1',
-      image: 'path-to-image1.jpg',
-      deployedUrl: 'https://example.com/project1',
-      repoUrl: 'https://github.com/yourusername/project1'
+      
+     
+      
+      repoUrl: 'https://github.com/Orrndrea'
     },
-    // Add more projects here
+   
   ];
 
   return (
